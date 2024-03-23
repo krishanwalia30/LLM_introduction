@@ -1,6 +1,5 @@
 transformers
 scikit-learn
-# tensorflow
 torch
 matplotlib
 pyaudio
